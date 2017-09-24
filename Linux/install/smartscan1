@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo -i
+echo "If there is nothing below this text then no one is connected, but if there is a result the second number will be the process #"
+ps aux | egrep "sshd: [a-zA-Z]+@"

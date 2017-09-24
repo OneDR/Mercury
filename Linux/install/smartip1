@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo -i
+echo "The first result will be your own computer, but the second one (if it is there) will be the connected device"
+who

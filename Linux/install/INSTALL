@@ -1,0 +1,17 @@
+Thank you for downloading SmartSecurity for Linux. 
+Lets get started! 
+
+1. In order to install SmartSecurity for Linux please go to the install directory under smartsecurity for linux. The file path should look like the following:
+ /smartsecurity_linux/install/
+
+2.Once you are in that directory in terminal type the following
+    sudo chmod u+x install
+
+followed by
+
+    ./install
+
+3. You will recieve a conformation message that SmartSecurity for Linux has been installed
+
+
+
