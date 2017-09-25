@@ -21,7 +21,6 @@ https://github.com/lennymelnik/SmartSecurity/releases
 ```html
 <!---Make the Installer an Executable-->```
 ```sudo chmod x+u install```
-```html
 <!--Launch Installer-->
 ./install
 ```
