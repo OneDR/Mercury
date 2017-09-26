@@ -12,11 +12,12 @@ To get started with CMDSecure just follow the steps listed below.
 
 ```html
 <!---clone-->
-git clone https://github.com/lennymelnik/CMDSecure
+git clone https://github.com/OneDR/CMDSecure
 ```
 Or
 Download from release page: 
-https://github.com/lennymelnik/CMDSecure/releases
+https://github.com/OneDR/CMDSecure/releases
+if you download the files from the link above make sure to extract the files.
 
 ```html
 <!---Make the Installer an Executable-->```
