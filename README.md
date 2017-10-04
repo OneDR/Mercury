@@ -22,7 +22,7 @@ if you download the files from the link above make sure to extract the files.
 ```html
 Next CD into the directory using cd CMDSecure
 <!---Make the Installer an Executable-->```
-sudo chmod x+u install
+sudo chmod u+x install
 <!--Launch Installer-->
 ./install
 ```
