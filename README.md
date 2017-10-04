@@ -21,7 +21,7 @@ if you download the files from the link above make sure to extract the files.
 
 ```html
 <!---Make the Installer an Executable-->```
-```sudo chmod x+u install```
+```sudo chmod u+u install```
 <!--Launch Installer-->
 ./install
 ```
