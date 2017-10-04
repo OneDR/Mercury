@@ -1,23 +1,21 @@
 #!/bin/bash
-echo "alias smartscan='sudo smartscan1'" >> ~/.bashrc
-echo "alias smartdisconnect='sudo smartdisconnect1'" >> ~/.bashrc
-echo "alias smartip='sudo smartip1'" >> ~/.bashrc
-echo "Thank you for installing SmartSecurity for Linux, to learn about how to use SmartSecurity please go to the README"
+
+echo "Thank you for installing CMDSecure for Linux, to learn about how to use CMDSecure please go to the README"
 
 
 
 
-sudo chmod u+x smartscan1
-sudo cp smartscan1 /usr/local/bin/
+sudo chmod u+x cmdscan
+sudo cp cmdscan /usr/local/bin/
 
-sudo chmod u+x smartip1
-sudo cp smartip1 /usr/local/bin/
+sudo chmod u+x cmdip
+sudo cp cmdip /usr/local/bin/
 
-sudo chmod u+x smartdisconnect1
-sudo cp smartdisconnect1 /usr/local/bin/
+sudo chmod u+x cmddisconnect
+sudo cp cmddisconnect /usr/local/bin/
 
 
-source ~/.bashrc
+
 
 
 
