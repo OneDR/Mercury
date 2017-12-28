@@ -1,8 +1,8 @@
-Thank you for downloading CMDSecure for Linux. 
+Thank you for downloading Mercury for Linux. 
 Lets get started! 
 
-1. In order to install CMDSecure for Linux please go to the install directory under CMDSecure for linux. The file path should look like the following:
- /cmdsecure_linux/install/
+1. In order to install Mercury for Linux please go to the install directory under Mercury for linux. The file path should look like the following:
+ /Unix/
 
 2.Once you are in that directory in terminal type the following
     sudo chmod u+x install
@@ -11,7 +11,7 @@ followed by
 
     ./install
 
-3. You will recieve a conformation message that CMDSecure for Linux has been installed
+3. You will receive a confirmation message that Mercury for Linux has been installed
 
 
 
